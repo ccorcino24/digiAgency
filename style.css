@@ -57,5 +57,41 @@ blockquote cite{
 	margin-top: 38px;
 }
 
+section {
+	padding: 100px;
+
+}
 
 
+h2 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0 0 60px;
+}
+
+h2 + p {
+	text-align: center;
+	margin-top: -60px;
+}
+
+#team{
+	background: url("img/group2.jpg") top left no-repeat;
+	background-size: cover;
+	color: #FFF;
+	text-align: center;
+}
+
+footer {
+	background: #222;
+	color: #FFF; 
+	text-align: center;
+	padding: 20px;
+	font-family: Georgia, Times, serif;
+}
+
+
+footer a {
+	color: #e6e6fa;
+}
